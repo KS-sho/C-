@@ -1,0 +1,142 @@
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\bin\Debug\Music1.exe.config
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\bin\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\bin\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\obj\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1\Music1\obj\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\bin\Debug\Music1.exe.config
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\bin\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\bin\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\obj\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music1 - コピー (2)\Music1\obj\Debug\Music1.pdb
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\bin\Debug\Music1.exe.config
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\bin\Debug\Music1.exe
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\bin\Debug\Music1.pdb
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\obj\Debug\Music1.exe
+C:\Users\220926PM\Desktop\C# copy\Music3\Music1\obj\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\bin\Debug\Music1.exe.config
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\bin\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\bin\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\obj\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3\Music1\obj\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\bin\Debug\Music1.exe.config
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\bin\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\bin\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\obj\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music3 - コピー\Music1\obj\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\bin\Debug\Music1.exe.config
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\bin\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\bin\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新\Music1\obj\Debug\Music1.csproj.CopyComplete
+C:\C# copy\Music最新\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\C# copy\Music最新\Music1\obj\Debug\Music1.Form1.resources
+C:\C# copy\Music最新\Music1\obj\Debug\Music.MainForm.resources
+C:\C# copy\Music最新\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\C# copy\Music最新\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\C# copy\Music最新\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\C# copy\Music最新\Music1\obj\Debug\Music1.exe
+C:\C# copy\Music最新\Music1\obj\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\bin\Debug\Music1.exe.config
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\bin\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\bin\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2)\Music1\obj\Debug\Music1.csproj.CopyComplete
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.pdb
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.exe.config
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.exe
+C:\Users\donar\OneDrive\デスクトップ\C# copy\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.pdb
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.exe.config
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.exe
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.pdb
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.Form1.resources
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music.MainForm.resources
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.Properties.Resources.resources
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.CopyComplete
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.exe
+C:\Users\220926PM\Desktop\Music\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.pdb
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.AssemblyReference.cache
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.Form1.resources
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music.MainForm.resources
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.Properties.Resources.resources
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.GenerateResource.cache
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.CoreCompileInputs.cache
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.exe
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.pdb
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.exe.config
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.exe
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Music1.pdb
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.dll
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\bin\Debug\Microsoft.DirectX.xml
+D:\MusicDebug\Music最新 - コピー (2) - コピー - コピー\Music1\obj\Debug\Music1.csproj.CopyComplete
